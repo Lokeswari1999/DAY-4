@@ -3,7 +3,7 @@ int main()
 {
     int i,j,k;
     printf("enter the values ");
-    scanf("%d%d%d",&i,&j);
+    scanf("%d%d",&i,&j);
     k=i||j&(j&&k);
     printf("%d\n",k);
 }
