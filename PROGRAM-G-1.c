@@ -6,8 +6,8 @@ printf("enter the value of a ");
 scanf("%d",&a);
 printf("enter the value of b");
 scanf("%d",&b);
-temp=x;
-x=y;
-y=temp;
-printf("after swapping x=%d,y=%d",x,y);
+temp=a;
+a=b;
+b=temp;
+printf("after swapping a=%d,b=%d",a,b);
 }
