@@ -1,0 +1,4 @@
+Declare the variable.
+Ask the input from the user.
+print the number is even or odd using conditional operator.
+If condition is true print the even number....otherwise print odd number...
